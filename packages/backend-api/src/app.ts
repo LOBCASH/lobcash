@@ -7,7 +7,7 @@ import gameRouter from "./routes/game.js";
 import adminRouter from "./routes/admin.js";
 
 const app = express();
-const PORT = parseInt(process.env.API_PORT ?? "19200", 10);
+const PORT = parseInt(process.env.PORT ?? process.env.API_PORT ?? "19200", 10);
 
 app.use(express.json());
 
