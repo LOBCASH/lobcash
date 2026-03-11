@@ -12,7 +12,7 @@ RUN pnpm install --frozen-lockfile || pnpm install
 COPY tsconfig.json ./
 COPY packages/common/ packages/common/
 COPY packages/frontend/ packages/frontend/
-RUN pnpm --filter @lobcash/common build && pnpm --filter @lobcash/frontend build
+RUN NEXT_STANDALONE=1 pnpm --filter @lobcash/common build && NEXT_STANDALONE=1 pnpm --filter @lobcash/frontend build
 
 # Production
 FROM node:20-slim AS runner
