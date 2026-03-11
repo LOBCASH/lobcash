@@ -1,0 +1,23 @@
+
+> @lobcash/frontend@0.1.0 dev D:\TradingBots\claude\lobcash\packages\frontend
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.20.10.2:3000
+
+✓ Starting...
+Creating turbopack project {
+  dir: 'D:\\TradingBots\\claude\\lobcash\\packages\\frontend',
+  testMode: true
+}
+✓ Ready in 1164ms
+ GET /play 200 in 659ms (compile: 398ms, render: 262ms)
+ GET /play 200 in 101ms (compile: 26ms, render: 76ms)
+ GET /play 200 in 68ms (compile: 12ms, render: 57ms)
+ GET /play 200 in 51ms (compile: 6ms, render: 45ms)
+ GET /play 200 in 90ms (compile: 15ms, render: 74ms)
+ GET /play 200 in 301ms (compile: 166ms, render: 135ms)
+ GET /play 200 in 97ms (compile: 18ms, render: 79ms)
+ GET /play 200 in 334ms (compile: 165ms, render: 169ms)
+ GET /play 200 in 338ms (compile: 165ms, render: 173ms)

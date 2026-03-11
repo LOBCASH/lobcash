@@ -1,0 +1,16 @@
+
+> @lobcash/frontend@0.1.0 dev D:\TradingBots\claude\lobcash\packages\frontend
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://172.20.10.2:3000
+
+✓ Starting...
+Creating turbopack project {
+  dir: 'D:\\TradingBots\\claude\\lobcash\\packages\\frontend',
+  testMode: true
+}
+✓ Ready in 1322ms
+ GET /play 200 in 918ms (compile: 736ms, render: 181ms)
+ GET /play 200 in 120ms (compile: 23ms, render: 97ms)

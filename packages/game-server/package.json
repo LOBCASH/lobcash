@@ -1,0 +1,19 @@
+{
+  "name": "@lobcash/game-server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx --watch src/server.ts",
+    "start": "node dist/server.js"
+  },
+  "dependencies": {
+    "@lobcash/common": "workspace:*",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.14",
+    "tsx": "^4.19.0"
+  }
+}

@@ -1,0 +1,281 @@
+[LOBCASH Game Server] Running on port 19100
+[LOBCASH Game Server] Tick rate: 20 TPS
+[LOBCASH Game Server] Arena: 2000x2000
+[LOBCASH Game Server] API: http://localhost:19200
+[LOBCASH Game Server] Endpoints: ws://localhost:19100 (game) | http://localhost:19100/health | /stats
+[Server] Players: 0 | Spectators: 0 | Epoch 1 (29m29s left) | Tick: 477
+[Server] Spectator connected
+[Server] Players: 0 | Spectators: 0 | Epoch 1 (28m59s left) | Tick: 955
+[Server] Players: 0 | Spectators: 0 | Epoch 1 (28m29s left) | Tick: 1433
+[Server] Players: 0 | Spectators: 0 | Epoch 1 (27m59s left) | Tick: 1911
+[Server] Players: 0 | Spectators: 0 | Epoch 1 (27m29s left) | Tick: 2388
+[Server] Player "MinerBot_1" joined (id=304)
+[Server] Player "MinerBot_2" joined (id=305)
+[Server] Player "MinerBot_3" joined (id=306)
+[Server] Player "MinerBot_4" joined (id=308)
+[Server] Player "MinerBot_5" joined (id=312)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (26m59s left) | Tick: 2867
+[Arena] Player "MinerBot_5" extracted 45 gold (total score: 45)
+[Arena] Player "MinerBot_4" extracted 34 gold (total score: 34)
+[Arena] Player "MinerBot_3" extracted 41 gold (total score: 41)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (26m29s left) | Tick: 3345
+[Server] Spectator connected
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (25m59s left) | Tick: 3823
+[Arena] "MinerBot_2" ate "MinerBot_3" (+15 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (25m29s left) | Tick: 4301
+[Arena] "MinerBot_2" ate "MinerBot_5" (+41 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (24m59s left) | Tick: 4780
+[Arena] "MinerBot_1" ate "MinerBot_3" (+27 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (24m29s left) | Tick: 5259
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (23m59s left) | Tick: 5738
+[Arena] Player "MinerBot_4" extracted 159 gold (total score: 193)
+[Arena] Player "MinerBot_5" extracted 50 gold (total score: 50)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (23m29s left) | Tick: 6216
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (22m59s left) | Tick: 6695
+[Arena] "MinerBot_4" ate "MinerBot_5" (+8 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (22m29s left) | Tick: 7172
+[Arena] "MinerBot_4" ate "MinerBot_5" (+31 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (21m59s left) | Tick: 7649
+[Arena] "MinerBot_1" ate "MinerBot_3" (+66 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (21m29s left) | Tick: 8126
+[Arena] "MinerBot_2" ate "MinerBot_3" (+30 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (20m59s left) | Tick: 8604
+[Arena] Player "MinerBot_3" extracted 17 gold (total score: 17)
+[Arena] Player "MinerBot_5" extracted 181 gold (total score: 181)
+[Arena] Player "MinerBot_4" extracted 92 gold (total score: 285)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (20m29s left) | Tick: 9083
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (19m59s left) | Tick: 9561
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (19m29s left) | Tick: 10038
+[Server] Spectator connected
+[Arena] "MinerBot_2" ate "MinerBot_3" (+55 gold)
+[Arena] "MinerBot_1" ate "MinerBot_3" (+17 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (18m59s left) | Tick: 10516
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (18m29s left) | Tick: 10994
+[Arena] "MinerBot_1" ate "MinerBot_4" (+43 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (17m59s left) | Tick: 11472
+[Arena] Player "MinerBot_3" extracted 26 gold (total score: 26)
+[Arena] Player "MinerBot_4" extracted 18 gold (total score: 18)
+[Arena] Player "MinerBot_5" extracted 70 gold (total score: 251)
+[Server] Spectator connected
+[Arena] Player "MinerBot_2" extracted 594 gold (total score: 594)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (17m29s left) | Tick: 11948
+[Arena] Player "MinerBot_1" extracted 734 gold (total score: 734)
+[Arena] "MinerBot_1" ate "MinerBot_4" (+7 gold)
+[Arena] Player "MinerBot_4" extracted 13 gold (total score: 13)
+[Arena] "MinerBot_1" ate "MinerBot_3" (+11 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (16m59s left) | Tick: 12428
+[Arena] "MinerBot_2" ate "MinerBot_5" (+14 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (16m29s left) | Tick: 12907
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (15m59s left) | Tick: 13386
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (15m29s left) | Tick: 13866
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (14m59s left) | Tick: 14345
+[Arena] Player "MinerBot_5" extracted 69 gold (total score: 69)
+[Arena] Player "MinerBot_4" extracted 151 gold (total score: 164)
+[Arena] Player "MinerBot_3" extracted 97 gold (total score: 97)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (14m29s left) | Tick: 14824
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (13m59s left) | Tick: 15303
+[Arena] "MinerBot_4" ate "MinerBot_5" (+12 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (13m29s left) | Tick: 15781
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (12m59s left) | Tick: 16259
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (12m29s left) | Tick: 16736
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (11m59s left) | Tick: 17215
+[Arena] Player "MinerBot_5" extracted 26 gold (total score: 26)
+[Arena] Player "MinerBot_3" extracted 16 gold (total score: 113)
+[Arena] Player "MinerBot_4" extracted 43 gold (total score: 207)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (11m29s left) | Tick: 17692
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (10m59s left) | Tick: 18170
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (10m29s left) | Tick: 18647
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (9m59s left) | Tick: 19124
+[Server] Spectator connected
+[Server] Players: 5 | Spectators: 1 | Epoch 1 (9m29s left) | Tick: 19600
+[Server] Players: 5 | Spectators: 1 | Epoch 1 (8m59s left) | Tick: 20075
+[Arena] Player "MinerBot_4" extracted 39 gold (total score: 246)
+[Arena] Player "MinerBot_2" extracted 106 gold (total score: 700)
+[Arena] Player "MinerBot_1" extracted 45 gold (total score: 779)
+[Arena] "MinerBot_2" ate "MinerBot_5" (+9 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (8m29s left) | Tick: 20550
+[Arena] Player "MinerBot_5" extracted 11 gold (total score: 11)
+[Arena] Player "MinerBot_3" extracted 10 gold (total score: 123)
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (7m59s left) | Tick: 21030
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (7m29s left) | Tick: 21509
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (6m59s left) | Tick: 21989
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (6m29s left) | Tick: 22467
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (5m59s left) | Tick: 22945
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (5m29s left) | Tick: 23422
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (4m59s left) | Tick: 23900
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (4m29s left) | Tick: 24378
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (3m59s left) | Tick: 24857
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (3m29s left) | Tick: 25334
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (2m59s left) | Tick: 25813
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (2m29s left) | Tick: 26293
+[Server] Spectator connected
+[Server] Players: 5 | Spectators: 1 | Epoch 1 (1m59s left) | Tick: 26770
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (1m29s left) | Tick: 27247
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (0m59s left) | Tick: 27726
+[Server] Players: 5 | Spectators: 0 | Epoch 1 (0m29s left) | Tick: 28205
+[Arena] Epoch 1 ended. 15 players extracted gold.
+  - 312: 45 gold extracted
+  - 308: 285 gold extracted
+  - 306: 41 gold extracted
+  - 972: 50 gold extracted
+  - 1491: 17 gold extracted
+  - 1298: 251 gold extracted
+  - 1888: 26 gold extracted
+  - 1993: 18 gold extracted
+  - MinerBot_2: 700 gold extracted
+  - MinerBot_1: 779 gold extracted
+  - MinerBot_4: 246 gold extracted
+  - 2235: 69 gold extracted
+  - MinerBot_3: 123 gold extracted
+  - 2513: 26 gold extracted
+  - MinerBot_5: 11 gold extracted
+[Server] Reporting epoch 1 results to API (0 extractors)...
+[Server] No extractions to report for epoch 1
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (29m59s left) | Tick: 28685
+[Arena] Player "MinerBot_5" extracted 10 gold (total score: 21)
+[Arena] Player "MinerBot_3" extracted 10 gold (total score: 133)
+[Arena] Player "MinerBot_4" extracted 19 gold (total score: 265)
+[Arena] Player "MinerBot_2" extracted 21 gold (total score: 721)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (29m29s left) | Tick: 29164
+[Arena] Player "MinerBot_1" extracted 71 gold (total score: 850)
+[Arena] "MinerBot_1" ate "MinerBot_3" (+36 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (28m59s left) | Tick: 29644
+[Arena] "MinerBot_4" ate "MinerBot_5" (+14 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (28m29s left) | Tick: 30122
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (27m59s left) | Tick: 30601
+[Arena] "MinerBot_4" ate "MinerBot_3" (+44 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (27m29s left) | Tick: 31078
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (26m59s left) | Tick: 31556
+[Arena] Player "MinerBot_3" extracted 74 gold (total score: 74)
+[Arena] Player "MinerBot_1" extracted 428 gold (total score: 1278)
+[Arena] Player "MinerBot_4" extracted 349 gold (total score: 614)
+[Arena] Player "MinerBot_2" extracted 422 gold (total score: 1143)
+[Arena] Player "MinerBot_5" extracted 127 gold (total score: 127)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (26m29s left) | Tick: 32035
+[Arena] "MinerBot_1" ate "MinerBot_4" (+9 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (25m59s left) | Tick: 32513
+[Arena] "MinerBot_5" ate "MinerBot_4" (+21 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (25m29s left) | Tick: 32992
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (24m59s left) | Tick: 33471
+[Arena] "MinerBot_1" ate "MinerBot_3" (+110 gold)
+[Arena] "MinerBot_1" ate "MinerBot_3" (+1 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (24m29s left) | Tick: 33948
+[Arena] "MinerBot_4" ate "MinerBot_3" (+30 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (23m59s left) | Tick: 34427
+[Arena] Player "MinerBot_5" extracted 283 gold (total score: 410)
+[Arena] Player "MinerBot_3" extracted 21 gold (total score: 21)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (23m29s left) | Tick: 34905
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (22m59s left) | Tick: 35384
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (22m29s left) | Tick: 35863
+[Arena] "MinerBot_5" ate "MinerBot_4" (+98 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (21m59s left) | Tick: 36343
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (21m29s left) | Tick: 36821
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (20m59s left) | Tick: 37299
+[Arena] Player "MinerBot_3" extracted 64 gold (total score: 85)
+[Arena] Player "MinerBot_4" extracted 19 gold (total score: 19)
+[Arena] Player "MinerBot_5" extracted 242 gold (total score: 652)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (20m29s left) | Tick: 37777
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (19m59s left) | Tick: 38255
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (19m29s left) | Tick: 38733
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (18m59s left) | Tick: 39211
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (18m29s left) | Tick: 39688
+[Arena] "MinerBot_2" ate "MinerBot_4" (+80 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (17m59s left) | Tick: 40166
+[Arena] Player "MinerBot_5" extracted 117 gold (total score: 769)
+[Arena] Player "MinerBot_4" extracted 10 gold (total score: 10)
+[Arena] Player "MinerBot_3" extracted 233 gold (total score: 318)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (17m29s left) | Tick: 40644
+[Arena] "MinerBot_1" ate "MinerBot_3" (+62 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (16m59s left) | Tick: 41120
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (16m29s left) | Tick: 41596
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (15m59s left) | Tick: 42074
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (15m29s left) | Tick: 42552
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (14m59s left) | Tick: 43029
+[Arena] Player "MinerBot_5" extracted 58 gold (total score: 827)
+[Arena] Player "MinerBot_3" extracted 39 gold (total score: 39)
+[Arena] Player "MinerBot_4" extracted 98 gold (total score: 108)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (14m29s left) | Tick: 43507
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (13m59s left) | Tick: 43987
+[Server] Spectator connected
+[Server] Players: 5 | Spectators: 1 | Epoch 2 (13m29s left) | Tick: 44464
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (12m59s left) | Tick: 44940
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (12m29s left) | Tick: 45419
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (11m59s left) | Tick: 45897
+[Arena] Player "MinerBot_5" extracted 41 gold (total score: 868)
+[Arena] Player "MinerBot_3" extracted 32 gold (total score: 71)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (11m29s left) | Tick: 46376
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (10m59s left) | Tick: 46854
+[Arena] "MinerBot_5" ate "MinerBot_3" (+6 gold)
+[Server] Spectator connected
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (10m29s left) | Tick: 47332
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (9m59s left) | Tick: 47810
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (9m29s left) | Tick: 48289
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (8m59s left) | Tick: 48767
+[Arena] Player "MinerBot_3" extracted 65 gold (total score: 65)
+[Arena] Player "MinerBot_4" extracted 18 gold (total score: 126)
+[Arena] Player "MinerBot_5" extracted 51 gold (total score: 919)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (8m29s left) | Tick: 49243
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (7m59s left) | Tick: 49725
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (7m29s left) | Tick: 50207
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (6m59s left) | Tick: 50688
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (6m29s left) | Tick: 51169
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (5m59s left) | Tick: 51650
+[Arena] Player "MinerBot_4" extracted 24 gold (total score: 150)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (5m29s left) | Tick: 52131
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (4m59s left) | Tick: 52612
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (4m29s left) | Tick: 53093
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (3m59s left) | Tick: 53574
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (3m29s left) | Tick: 54054
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (2m59s left) | Tick: 54536
+[Arena] Player "MinerBot_5" extracted 16 gold (total score: 935)
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (2m29s left) | Tick: 55017
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (1m59s left) | Tick: 55497
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (1m29s left) | Tick: 55978
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (0m59s left) | Tick: 56459
+[Server] Players: 5 | Spectators: 0 | Epoch 2 (0m29s left) | Tick: 56939
+[Arena] Epoch 2 ended. 12 players extracted gold.
+  - 2609: 10 gold extracted
+  - 2154: 10 gold extracted
+  - 2124: 368 gold extracted
+  - MinerBot_2: 443 gold extracted
+  - MinerBot_1: 499 gold extracted
+  - 3461: 74 gold extracted
+  - MinerBot_5: 935 gold extracted
+  - 4725: 318 gold extracted
+  - 4973: 19 gold extracted
+  - MinerBot_4: 150 gold extracted
+  - 5700: 71 gold extracted
+  - MinerBot_3: 65 gold extracted
+[Server] Reporting epoch 2 results to API (0 extractors)...
+[Server] No extractions to report for epoch 2
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (29m59s left) | Tick: 57421
+[Arena] Player "MinerBot_5" extracted 12 gold (total score: 947)
+[Arena] Player "MinerBot_3" extracted 11 gold (total score: 76)
+[Arena] Player "MinerBot_4" extracted 12 gold (total score: 162)
+[Arena] Player "MinerBot_2" extracted 789 gold (total score: 1932)
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (29m29s left) | Tick: 57901
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (28m59s left) | Tick: 58382
+[Arena] "MinerBot_1" ate "MinerBot_3" (+90 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (28m29s left) | Tick: 58863
+[Arena] "MinerBot_2" ate "MinerBot_3" (+21 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (27m59s left) | Tick: 59343
+[Arena] "MinerBot_1" ate "MinerBot_3" (+30 gold)
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (27m29s left) | Tick: 59823
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (26m59s left) | Tick: 60304
+[Arena] Player "MinerBot_3" extracted 79 gold (total score: 79)
+[Arena] Player "MinerBot_4" extracted 167 gold (total score: 329)
+[Arena] Player "MinerBot_5" extracted 201 gold (total score: 1148)
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (26m29s left) | Tick: 60784
+[Arena] Player "MinerBot_1" extracted 1328 gold (total score: 2606)
+[Arena] Player "MinerBot_2" extracted 403 gold (total score: 2335)
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (25m59s left) | Tick: 61265
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (25m29s left) | Tick: 61746
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (24m59s left) | Tick: 62225
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (24m29s left) | Tick: 62703
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (23m59s left) | Tick: 63182
+[Arena] Player "MinerBot_3" extracted 365 gold (total score: 444)
+[Arena] Player "MinerBot_5" extracted 136 gold (total score: 1284)
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (23m29s left) | Tick: 63661
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (22m59s left) | Tick: 64141
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (22m29s left) | Tick: 64620
+[Server] Players: 5 | Spectators: 0 | Epoch 3 (21m59s left) | Tick: 65097

@@ -1,0 +1,16 @@
+{
+  "name": "lobcash",
+  "version": "0.1.0",
+  "private": true,
+  "description": "LOBCASH - AI Agent Mining Arena on BNB Chain",
+  "scripts": {
+    "build": "pnpm -r build",
+    "dev:server": "pnpm --filter @lobcash/game-server dev",
+    "dev:api": "pnpm --filter @lobcash/backend-api dev",
+    "dev:frontend": "pnpm --filter @lobcash/frontend dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@types/node": "^22.10.0"
+  }
+}

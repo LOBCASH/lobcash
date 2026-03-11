@@ -1,0 +1,96 @@
+Starting 5 bot(s) with strategy: mixed
+Server: ws://localhost:19100
+
+[Bot] Connecting to ws://localhost:19100...
+[Bot] Connected!
+  [1/5] MinerBot_1 started (AggressiveStrategy)
+[Aggressive] Joined as 304
+[Bot] Connecting to ws://localhost:19100...
+[Bot] Connected!
+  [2/5] MinerBot_2 started (AggressiveStrategy)
+[Aggressive] Joined as 305
+[Bot] Connecting to ws://localhost:19100...
+[Bot] Connected!
+  [3/5] MinerBot_3 started (FarmerStrategy)
+[Farmer] Joined as 306
+[Bot] Connecting to ws://localhost:19100...
+[Bot] Connected!
+  [4/5] MinerBot_4 started (DefaultStrategy)
+[DefaultStrategy] Joined with ID 308
+[Bot] Connecting to ws://localhost:19100...
+[Bot] Connected!
+  [5/5] MinerBot_5 started (DefaultStrategy)
+
+All 5 bots running. Press Ctrl+C to stop.
+
+[DefaultStrategy] Joined with ID 312
+[Farmer] Killed by MinerBot_2, will collect more carefully
+[Farmer] Joined as 674
+[DefaultStrategy] Died! Killer: MinerBot_2, Score: 45
+[DefaultStrategy] Joined with ID 972
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 1081
+[DefaultStrategy] Died! Killer: MinerBot_4, Score: 50
+[DefaultStrategy] Joined with ID 1146
+[DefaultStrategy] Died! Killer: MinerBot_4, Score: 0
+[DefaultStrategy] Joined with ID 1298
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 1341
+[Farmer] Killed by MinerBot_2, will collect more carefully
+[Farmer] Joined as 1491
+[Farmer] Killed by MinerBot_2, will collect more carefully
+[Farmer] Joined as 1796
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 1888
+[DefaultStrategy] Died! Killer: MinerBot_1, Score: 285
+[DefaultStrategy] Joined with ID 1993
+[DefaultStrategy] Died! Killer: MinerBot_1, Score: 18
+[DefaultStrategy] Joined with ID 2124
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 2154
+[DefaultStrategy] Died! Killer: MinerBot_2, Score: 251
+[DefaultStrategy] Joined with ID 2235
+[DefaultStrategy] Died! Killer: MinerBot_4, Score: 69
+[DefaultStrategy] Joined with ID 2513
+[DefaultStrategy] Died! Killer: MinerBot_2, Score: 26
+[DefaultStrategy] Joined with ID 2609
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 1 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 1 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 1 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 1 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 1 }
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 2833
+[DefaultStrategy] Died! Killer: MinerBot_4, Score: 21
+[DefaultStrategy] Joined with ID 2987
+[Farmer] Killed by MinerBot_4, will collect more carefully
+[Farmer] Joined as 3461
+[DefaultStrategy] Died! Killer: MinerBot_1, Score: 614
+[DefaultStrategy] Joined with ID 3994
+[DefaultStrategy] Died! Killer: MinerBot_5, Score: 0
+[DefaultStrategy] Joined with ID 4065
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 4474
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 4512
+[Farmer] Killed by MinerBot_4, will collect more carefully
+[Farmer] Joined as 4725
+[DefaultStrategy] Died! Killer: MinerBot_5, Score: 0
+[DefaultStrategy] Joined with ID 4973
+[DefaultStrategy] Died! Killer: MinerBot_2, Score: 19
+[DefaultStrategy] Joined with ID 5512
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 5700
+[Farmer] Killed by MinerBot_5, will collect more carefully
+[Farmer] Joined as 6021
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 2 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 2 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 2 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 2 }
+[Bot] Game over: { goldExtracted: 0, tokensEarned: 0, rank: 0, epochId: 2 }
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 6674
+[Farmer] Killed by MinerBot_2, will collect more carefully
+[Farmer] Joined as 6797
+[Farmer] Killed by MinerBot_1, will collect more carefully
+[Farmer] Joined as 7113

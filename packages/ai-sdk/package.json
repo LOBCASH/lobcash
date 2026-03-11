@@ -1,0 +1,22 @@
+{
+  "name": "@lobcash/ai-sdk",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "lobcash-bot": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx --watch src/cli.ts",
+    "start": "node dist/cli.js"
+  },
+  "dependencies": {
+    "@lobcash/common": "workspace:*",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.14",
+    "tsx": "^4.19.0"
+  }
+}

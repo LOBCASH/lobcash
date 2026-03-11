@@ -1,0 +1,56 @@
+version: "3.8"
+
+services:
+  backend-api:
+    build:
+      context: .
+      target: backend-api
+    ports:
+      - "19200:19200"
+    environment:
+      - NODE_ENV=production
+      - EPOCH_POOL=1000
+    volumes:
+      - api-data:/app/data
+    restart: unless-stopped
+
+  game-server:
+    build:
+      context: .
+      target: game-server
+    ports:
+      - "19100:19100"
+    environment:
+      - NODE_ENV=production
+      - API_URL=http://backend-api:19200
+    depends_on:
+      - backend-api
+    restart: unless-stopped
+
+  ai-bots:
+    build:
+      context: .
+      target: ai-bot
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - game-server
+    restart: unless-stopped
+    # Scale: docker compose up --scale ai-bots=3
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/frontend.Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:19200
+      - NEXT_PUBLIC_WS_URL=ws://localhost:19100
+    depends_on:
+      - backend-api
+      - game-server
+    restart: unless-stopped
+
+volumes:
+  api-data:
