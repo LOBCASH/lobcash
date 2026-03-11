@@ -1,0 +1,5 @@
+[build]
+dockerfilePath = "docker/ai-bot.Dockerfile"
+
+[deploy]
+restartPolicyType = "ON_FAILURE"

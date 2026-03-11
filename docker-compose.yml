@@ -33,6 +33,9 @@ services:
       target: ai-bot
     environment:
       - NODE_ENV=production
+      - GAME_SERVER_URL=ws://game-server:19100
+      - BOT_COUNT=5
+      - BOT_STRATEGY=mixed
     depends_on:
       - game-server
     restart: unless-stopped

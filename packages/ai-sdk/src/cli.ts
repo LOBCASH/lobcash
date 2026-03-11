@@ -51,6 +51,11 @@ function getArg(args: string[], flag: string): string | undefined {
   return idx >= 0 ? args[idx + 1] : undefined;
 }
 
+function getEnv(name: string): string | undefined {
+  const value = process.env[name];
+  return value && value.trim() ? value.trim() : undefined;
+}
+
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
 
@@ -66,12 +71,34 @@ async function main(): Promise<void> {
   }
 
   // CLI overrides
-  config.server = getArg(args, "--server") ?? config.server ?? "ws://localhost:19100";
-  config.name = getArg(args, "--name") ?? config.name ?? `Bot_${Math.floor(Math.random() * 1000)}`;
-  config.apiKey = getArg(args, "--api-key") ?? config.apiKey ?? "dev-key";
-  config.strategy = getArg(args, "--strategy") ?? config.strategy ?? "mixed";
+  config.server =
+    getArg(args, "--server") ??
+    config.server ??
+    getEnv("GAME_SERVER_URL") ??
+    getEnv("SERVER_URL") ??
+    "ws://localhost:19100";
+  config.name =
+    getArg(args, "--name") ??
+    config.name ??
+    getEnv("BOT_NAME") ??
+    `Bot_${Math.floor(Math.random() * 1000)}`;
+  config.apiKey =
+    getArg(args, "--api-key") ??
+    config.apiKey ??
+    getEnv("BOT_API_KEY") ??
+    "dev-key";
+  config.strategy =
+    getArg(args, "--strategy") ??
+    config.strategy ??
+    getEnv("BOT_STRATEGY") ??
+    "mixed";
 
-  const botCount = parseInt(getArg(args, "--count") ?? "1", 10);
+  const botCount = parseInt(
+    getArg(args, "--count") ??
+    getEnv("BOT_COUNT") ??
+    "1",
+    10
+  );
   const strategyName = config.strategy!;
 
   if (!STRATEGIES[strategyName]) {

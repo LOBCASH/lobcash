@@ -11,7 +11,10 @@ import {
 } from "@lobcash/common";
 
 const PORT = parseInt(process.env.PORT ?? "19100", 10);
-const API_URL = process.env.API_URL ?? "http://localhost:19200";
+const API_URL =
+  process.env.API_URL ??
+  process.env.BACKEND_API_URL ??
+  "http://localhost:19200";
 
 interface ClientSession {
   ws: WebSocket;

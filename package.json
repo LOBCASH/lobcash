@@ -7,7 +7,10 @@
     "build": "pnpm -r build",
     "dev:server": "pnpm --filter @lobcash/game-server dev",
     "dev:api": "pnpm --filter @lobcash/backend-api dev",
-    "dev:frontend": "pnpm --filter @lobcash/frontend dev"
+    "dev:frontend": "pnpm --filter @lobcash/frontend dev",
+    "railway:deploy:backend-api": "node scripts/railway-deploy.mjs backend-api",
+    "railway:deploy:game-server": "node scripts/railway-deploy.mjs game-server",
+    "railway:deploy:ai-bots": "node scripts/railway-deploy.mjs ai-bots"
   },
   "devDependencies": {
     "typescript": "^5.7.0",

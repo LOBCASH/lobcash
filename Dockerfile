@@ -62,4 +62,4 @@ COPY packages/common/package.json packages/common/
 COPY packages/ai-sdk/package.json packages/ai-sdk/
 COPY package.json pnpm-workspace.yaml ./
 ENV NODE_ENV=production
-CMD ["node", "packages/ai-sdk/dist/cli.js", "--server", "ws://game-server:19100", "--count", "5", "--strategy", "mixed"]
+CMD ["node", "packages/ai-sdk/dist/cli.js"]

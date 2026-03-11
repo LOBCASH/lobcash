@@ -1,3 +1,6 @@
+# Default root config for the backend API.
+# For monorepo deploys, use `node scripts/railway-deploy.mjs <service>`
+# or point each Railway service at one of the files under `/railway`.
 [build]
 dockerfilePath = "docker/backend-api.Dockerfile"
 

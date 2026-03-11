@@ -13,4 +13,4 @@ COPY packages/ai-sdk/ packages/ai-sdk/
 RUN pnpm --filter @lobcash/common build && pnpm --filter @lobcash/ai-sdk build
 
 ENV NODE_ENV=production
-CMD ["node", "packages/ai-sdk/dist/cli.js", "--count", "5", "--strategy", "mixed"]
+CMD ["node", "packages/ai-sdk/dist/cli.js"]
