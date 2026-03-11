@@ -4,3 +4,15 @@ dist/
 *.env
 .env.local
 data/lobcash.json
+
+# 日志
+*.log
+_*.log
+.*.log
+
+# 临时浏览器目录
+.tmp-edge-profile/
+.tmp-edge-profile-2/
+
+# 嵌套 git 仓库
+gameplay/
